@@ -3,7 +3,7 @@
   </div>
   
   <p align="center">
-<a href="https://github.com/Shoaib19"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Django+Developer;Python+Backend+Engineer;React+Developer;MERN+STACK+Devloper&center=true&width=500&height=50"></a>
+<a href="https://github.com/Shoaib19"><img src="https://readme-typing-svg.herokuapp.com?lines=Ruby+on+Rails+Developer;Backend+Engineer;Git+Bash+zsh;Js+developer&center=true&width=500&height=50"></a>
 
 ## 🐛Github Magic Game
 

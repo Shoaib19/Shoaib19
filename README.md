@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-![snake gif](https://github.com/Shoaib19/Shoaib19/blob/output/github-contribution-grid-snake.gif)
+## 🐛Github Magic Game
+
+<p align="center">
+  <img src="https://github.com/Shoaib19/Shoaib19/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
+
 <!--
 **Shoaib19/Shoaib19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

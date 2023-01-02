@@ -13,12 +13,12 @@
 <br>
 
 I'm a Rails Developer, Teacher and Researcher!
-🔭 I’m currently working as Backend Engineer.
-🌱 I’m currently expanding my knowledge in MERN, low level programing and devOps.
-👯 I’m looking to collaborate with other content creators and developers.
-📢 Love to teach and inspire students.
-🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
-💎 If you are a Tech boy/girl let's get connected
+- 🔭 I’m currently working as Backend Engineer.
+- 🌱 I’m currently expanding my knowledge in MERN, low level programing and devOps.
+- 👯 I’m looking to collaborate with other content creators and developers.
+- 📢 Love to teach and inspire students.
+- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 💎 If you are a Tech boy/girl let's get connected
 
 [![An image of @shoaib019's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shoaib019)](https://holopin.io/@shoaib019)
 <!--

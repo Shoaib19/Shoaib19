@@ -21,6 +21,15 @@ I'm a Rails Developer, Teacher and Researcher!
 - 💎 If you are a Tech boy/girl let's get connected
 
 [![An image of @shoaib019's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shoaib019)](https://holopin.io/@shoaib019)
+
+## ⚡️Github Contributions
+	
+<h4 align="center">Isometric view of contributions in the last year</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
+	</a>
+</p>
 <!--
 **Shoaib19/Shoaib19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -20,6 +20,86 @@ I'm a Rails Developer, Teacher and Researcher!
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected
 
+
+<h2>Tech Stack</h2>
+
+<table width="80%">
+<tr>
+    <td align='center' width="150">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
+    </td>
+
+  <td align='center' width="150">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg"  width="100">
+    </td>
+ <td align='center' width="150">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="100">
+    </td>
+ <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
+    </td>
+ <td align='center' width="200">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+ 
+</tr>
+ 
+<tr>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="70">
+    </td>
+    <td align='center' width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+    </td>
+ <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
+    </td>
+     <td align='center' width="200">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+    </td>
+</tr>
+ 
+<tr>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="100" height="100">
+    </td>
+    <td align='center' width="200">
+        <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" >
+    </td>
+ <td align='center' width="200">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    </td>
+  <td align='center' width="200">
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
+    </td>
+</tr>
+	
+<tr>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"  width="90">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
+    </td>
+ <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="150">
+    </td>
+     <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="90">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
+    </td>
+</tr>
+    
+</table>
+
 [![An image of @shoaib019's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shoaib019)](https://holopin.io/@shoaib019)
 
 ## ⚡️Github Contributions

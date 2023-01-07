@@ -110,6 +110,14 @@ I'm a Rails Developer, Teacher and Researcher!
 |---|---|---|
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shoaib19&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=Shoaib19&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shoaib19&theme=gruvbox)|
  
+ ## Personal Projects
+
+| Project :octocat:                                                                | Issues :bug:                                                                                                                                                                             | Open PRs :bell:                                                                                                                                                             | Closed PRs :fire:                                                                                                                                                                                                       | Last Commit 🚩                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Leetcode Practice**](https://github.com/Shoaib19/Leetcode)                  | [![GitHub issues](https://img.shields.io/github/issues/Shoaib19/Leetcode?color=green&logo=github&style=flat)](https://github.com/Shoaib19/Leetcode/issues)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr/Shoaib19/Leetcode?style=flat&logo=github)](https://github.com/Shoaib19/Leetcode/pulls)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Shoaib19/Leetcode?style=flat&color=critical&logo=github)](https://github.com/Shoaib19/Leetcode/pulls?q=is%3Apr+is%3Aclosed)                           | [![GitHub last commit](https://img.shields.io/github/last-commit/Shoaib19/Leetcode?color=blue&logo=github&style=flat)](https://github.com/Shoaib19/Leetcode/commits/)                           |
+| [**Github Profile**](https://github.com/Shoaib19/Shoaib19)                   | [![GitHub issues](https://img.shields.io/github/issues/Shoaib19/Shoaib19?color=green&logo=github&style=flat)](https://github.com/Shoaib19/Shoaib19/issues)                       | [![GitHub PRs](https://img.shields.io/github/issues-pr/Shoaib19/Shoaib19?style=flat&logo=github)](https://github.com/Shoaib19/Shoaib19/pulls)                       | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Shoaib19/Shoaib19?style=flat&color=critical&logo=github)](https://github.com/Shoaib19/Shoaib19/pulls?q=is%3Apr+is%3Aclosed)                       | [![GitHub last commit](https://img.shields.io/github/last-commit/Shoaib19/Shoaib19?color=blue&logo=github&style=flat)](https://github.com/Shoaib19/Shoaib19/commits/)                       |
+| [**Devicon**](https://github.com/Shoaib19/devicon) | [![GitHub issues](https://img.shields.io/github/issues/Shoaib19/devicon?color=green&logo=github&style=flat)](https://github.com/Shoaib19/devicon/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Shoaib19/devicon?style=flat&logo=github)](https://github.com/Shoaib19/devicon/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Shoaib19/devicon?style=flat&color=critical&logo=github)](https://github.com/Shoaib19/devicon/pulls?q=is%3Apr+is%3Aclosed) | [![GitHub last commit](https://img.shields.io/github/last-commit/Shoaib19/devicon?color=blue&logo=github&style=flat)](https://github.com/Shoaib19/devicon/commits/) |
+| [**GildedRose**](https://github.com/Shoaib19/GildedRose)    | [![GitHub issues](https://img.shields.io/github/issues/Shoaib19/GildedRose?color=green&logo=github&style=flat)](https://github.com/Shoaib19/GildedRose/issues)       | [![GitHub PRs](https://img.shields.io/github/issues-pr/Shoaib19/GildedRose?style=flat&logo=github)](https://github.com/Shoaib19/GildedRose/pulls)       | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/Shoaib19/GildedRose?style=flat&color=critical&logo=github)](https://github.com/Shoaib19/GildedRose/pulls?q=is%3Apr+is%3Aclosed)     | [![GitHub last commit](https://img.shields.io/github/last-commit/Shoaib19/GildedRose?color=blue&logo=github&style=flat)](https://github.com/Shoaib19/GildedRose/commits/)       |
 
 [![An image of @shoaib019's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shoaib019)](https://holopin.io/@shoaib019)
 
@@ -132,17 +140,3 @@ I'm a Rails Developer, Teacher and Researcher!
   Views<br>
   <img src="https://profile-counter.glitch.me/Shoaib19/count.svg" />
 </p>
-<!--
-**Shoaib19/Shoaib19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

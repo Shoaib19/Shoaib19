@@ -8,7 +8,7 @@
 ## 🐛Github Magic Game
 
 <p align="center">
-  <img src="https://github.com/Shoaib19/Shoaib19/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+ snake will show here
 </p>
 <br>
 

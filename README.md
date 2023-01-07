@@ -106,6 +106,11 @@ I'm a Rails Developer, Teacher and Researcher!
     
 </table>
 
+|Stats />|Streak />|Languages />
+|---|---|---|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shoaib19&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=Shoaib19&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shoaib19&theme=gruvbox)|
+ 
+
 [![An image of @shoaib019's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shoaib019)](https://holopin.io/@shoaib019)
 
 ## ⚡️Github Contributions

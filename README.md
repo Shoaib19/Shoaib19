@@ -20,6 +20,12 @@ I'm a Rails Developer, Teacher and Researcher!
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected
 
+<p align="center">
+<a href="https://www.linkedin.com/in/shoaib-sabir-a3b88a212/"><img src="https://img.shields.io/badge/-Shoaib%20Sabir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:shoaibsabir019@gmail.com"><img src="https://img.shields.io/badge/-shoaibsabir019@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/shoaibsabir099/"><img src="https://img.shields.io/badge/-@shoaibsabir-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/Shoaib019/"><img src="https://img.shields.io/badge/-/shoaibsabir-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+ </p>
 
 <h2>Tech Stack</h2>
 

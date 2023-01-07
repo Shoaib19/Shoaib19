@@ -8,7 +8,7 @@
 ## 🐛Github Magic Game
 
 <p align="center">
- snake will show here
+ ![Snake animation](https://github.com/Shoaib19/Shoaib19/blob/output/github-contribution-grid-snake.svg)
 </p>
 <br>
 

@@ -9,6 +9,7 @@
 
 <p align="center">
  ![Snake animation](https://github.com/Shoaib19/Shoaib19/blob/output/github-contribution-grid-snake.svg)
+ <img src="https://github.com/Shoaib19/Shoaib19/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
 

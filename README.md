@@ -139,7 +139,16 @@ I'm a Rails Developer, Teacher and Researcher!
 	<img width="625em" src="https://github.com/Shoaib19/Shoaib19/blob/main/github-metrics.svg" />
 </p>
 
+<p align="center">
+ <a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+ </a>
+</p>
+
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/Shoaib19/count.svg" />
 </p>
+
+
+

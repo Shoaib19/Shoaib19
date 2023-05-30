@@ -139,6 +139,12 @@ I'm a Rails Developer, Teacher and Researcher!
 	<img width="625em" src="https://github.com/Shoaib19/Shoaib19/blob/main/github-metrics.svg" />
 </p>
 
+<p align="center"> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="trophy">
+ </a>
+</p>
+
 <p align="center">
  <a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
@@ -149,6 +155,4 @@ I'm a Rails Developer, Teacher and Researcher!
   Views<br>
   <img src="https://profile-counter.glitch.me/Shoaib19/count.svg" />
 </p>
-
-
 

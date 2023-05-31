@@ -140,8 +140,8 @@ I'm a Rails Developer, Teacher and Researcher!
 </p>
 
 <p align="center"> 
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="trophy">
+ <a href="https://github.com/Shoaib19/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shoaib19&theme=gruvbox&no-frame=true&column=-1" alt="trophy">
  </a>
 </p>
 

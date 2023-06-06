@@ -147,7 +147,7 @@ I'm a Rails Developer, Teacher and Researcher!
 
 <p align="center">
  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" alt="Readme Quotes">
  </a>
 </p>
 

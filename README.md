@@ -28,6 +28,8 @@ I'm a Rails Developer, Teacher and Researcher!
 <a href="mailto:shoaibsabir019@gmail.com"><img src="https://img.shields.io/badge/-shoaibsabir019@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/shoaibsabir099/"><img src="https://img.shields.io/badge/-@shoaibsabir-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/Shoaib019/"><img src="https://img.shields.io/badge/-/shoaibsabir-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="https://stackoverflow.com/users/7203238/shoaib-sabir" target="_blank"><img alt="StackOverflow" 
+src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/7203238" /></a>
  </p>
 
 <h2>Tech Stack</h2>

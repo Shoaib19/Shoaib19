@@ -20,7 +20,7 @@ I'm a Rails Developer, Teacher and Researcher!
 - 🌱 I’m currently expanding my knowledge in MERN, low level programing and devOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 🥅 2024-29 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected
 
 <p align="center">

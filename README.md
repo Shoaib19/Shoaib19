@@ -3,7 +3,7 @@
   </div>
 
   <p align="center">
-<a href="https://github.com/Shoaib19"><img src="https://readme-typing-svg.herokuapp.com?lines=Ruby+on+Rails+Developer;Backend+Engineer;Git+Bash+zsh;Js+developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/Shoaib19"><img src="https://readme-typing-svg.herokuapp.com?lines=Ruby+on+Rails+Developer;Backend+Engineer;DevOps+Engineer;Js+developer&center=true&width=500&height=50"></a>
 
 ## 🐛Github Magic Game
 
@@ -78,7 +78,7 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/7203238" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="100" height="100">
     </td>
     <td align='center' width="200">
-        <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100" height="100">
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
@@ -155,6 +155,6 @@ src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/7203238" />
 
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/Shoaib19/count.svg" />
+  <img src="https://profile-counter.deno.dev/Shoaib19/count.svg" alt="Key:: Visitor's Count" />
 </p>
 
